@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="PlantsGrowing.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PlantsGrowing"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button Content="Button" HorizontalAlignment="Left" Height="83" Margin="81,67,0,0" VerticalAlignment="Top" Width="163" Click="Button_Click"/>
+
+    </Grid>
+</Page>
